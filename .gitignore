@@ -1,0 +1,5 @@
+.build/
+*.swp
+/local/
+/Bot-ChatBots-Trello-*.tar.gz
+/Bot-ChatBots-Trello-*/
