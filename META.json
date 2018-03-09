@@ -39,13 +39,22 @@
       },
       "runtime" : {
          "requires" : {
+            "Bot::ChatBots" : "0.010",
+            "IO::Socket::SSL" : "2.038",
+            "Log::Any" : "1.042",
+            "Mojolicious" : "7.08",
+            "Moo" : "2.002005",
+            "Ouch" : "0.0409",
+            "Try::Tiny" : "0.27",
+            "namespace::clean" : "0.27",
             "perl" : "5.010"
          }
       },
       "test" : {
          "requires" : {
             "Path::Tiny" : "0.096",
-            "Test::More" : "0.88"
+            "Test::More" : "0.88",
+            "Test::Trap" : "0"
          }
       }
    },
