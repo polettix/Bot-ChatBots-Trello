@@ -58,7 +58,18 @@
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/polettix/Bot-ChatBots-Trello/issues"
+      },
+      "homepage" : "https://github.com/polettix/Bot-ChatBots-Trello",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/polettix/Bot-ChatBots-Trello.git",
+         "web" : "https://github.com/polettix/Bot-ChatBots-Trello"
+      }
+   },
    "version" : "0.001",
    "x_contributors" : [
       "Flavio Poletti <flavio@polettix.it>"
