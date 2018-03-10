@@ -1,7 +1,7 @@
 package Bot::ChatBots::Trello::WebHook;
 use strict;
 use warnings;
-{ our $VERSION = '0.001'; }
+{ our $VERSION = '0.002'; }
 
 use Ouch;
 use Log::Any qw< $log >;
